@@ -1,0 +1,5 @@
+[
+	//{ "keys": ["shift+ctrl+space"], "command": "code_intel_auto_complete" },
+	{ "keys": ["alt+ctrl+shift+click"], "command": "goto_python_definition"},
+	{ "keys": ["super+alt+ctrl+left"], "command": "back_to_python_definition"}
+]
